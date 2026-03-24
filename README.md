@@ -1,2 +1,2 @@
 # FlashCardapp
-though it would be an intresting and useful way to learn if everytime that you open your phone you are prompted with a  few flash cards it would help with rembering concepts ( spaced repetition )
+Flash card app that gives you a flash card everytime that you open an app/unlock your screen you are presented with some flash cards.
